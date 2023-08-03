@@ -14,7 +14,7 @@ homepage = "https://github.com/cmake-wheel/cmeel-autoconf"
 repository = "https://github.com/cmake-wheel/cmeel-autoconf.git"
 
 [tool.cmeel]
-build-number = 2
+build-number = 3
 py3-none = true
 run-tests = false
 
