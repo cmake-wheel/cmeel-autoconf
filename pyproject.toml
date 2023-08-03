@@ -3,15 +3,15 @@ build-backend = "cmeel.build"
 requires = ["cmeel[build]"]
 
 [project]
-description = "cmeel distribution for automake"
+description = "cmeel distribution for autoconf"
 license = "GPL-3.0-or-later"
-name = "cmeel-automake"
+name = "cmeel-autoconf"
 requires-python = ">= 3.8"
 version = "2.71"
 
 [project.urls]
-homepage = "https://github.com/cmake-wheel/cmeel-automake"
-repository = "https://github.com/cmake-wheel/cmeel-automake.git"
+homepage = "https://github.com/cmake-wheel/cmeel-autoconf"
+repository = "https://github.com/cmake-wheel/cmeel-autoconf.git"
 
 [tool.cmeel]
 build-number = 2
