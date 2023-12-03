@@ -12,6 +12,7 @@ version = "2.71"
 [project.urls]
 homepage = "https://github.com/cmake-wheel/cmeel-autoconf"
 repository = "https://github.com/cmake-wheel/cmeel-autoconf.git"
+upstream = "https://www.gnu.org/software/autoconf/"
 
 [tool.cmeel]
 build-number = 4
