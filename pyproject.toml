@@ -7,7 +7,7 @@ description = "cmeel distribution for autoconf"
 license = "GPL-3.0-or-later"
 name = "cmeel-autoconf"
 requires-python = ">= 3.8"
-version = "2.71"
+version = "2.72"
 
 [project.urls]
 homepage = "https://github.com/cmake-wheel/cmeel-autoconf"
@@ -15,7 +15,6 @@ repository = "https://github.com/cmake-wheel/cmeel-autoconf.git"
 upstream = "https://www.gnu.org/software/autoconf/"
 
 [tool.cmeel]
-build-number = 4
 has-sitelib = false
 run-tests = false
 
