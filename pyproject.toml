@@ -6,8 +6,8 @@ requires = ["cmeel-m4", "cmeel[build]"]
 description = "cmeel distribution for autoconf"
 license = "GPL-3.0-or-later"
 name = "cmeel-autoconf"
-requires-python = ">= 3.8"
-version = "2.72"
+requires-python = ">= 3.9"
+version = "2.72.0.1"
 
 [project.urls]
 homepage = "https://github.com/cmake-wheel/cmeel-autoconf"
@@ -17,6 +17,7 @@ upstream = "https://www.gnu.org/software/autoconf/"
 [tool.cmeel]
 has-sitelib = false
 run-tests = false
+upstream-version = "2.72"
 
 [tool.tomlsort]
 all = true
